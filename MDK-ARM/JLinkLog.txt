@@ -1,0 +1,19 @@
+T7B64 000:018.834   SEGGER J-Link V7.22b Log File
+T7B64 000:018.997   DLL Compiled: Jun 17 2021 17:22:49
+T7B64 000:019.018   Logging started @ 2025-10-07 11:22
+T7B64 000:019.040 - 19.051ms
+T7B64 000:019.067 JLINK_SetWarnOutHandler(...)
+T7B64 000:019.089 - 0.030ms
+T7B64 000:019.108 JLINK_OpenEx(...)
+T7B64 000:066.039   Looking for J-Link GUI Server exe at: D:\Keil_v5\ARM\Segger\JLinkGUIServer.exe
+T7B64 000:066.567   Looking for J-Link GUI Server exe at: D:\Program Files\SEGGER\JLink\JLinkGUIServer.exe
+T7B64 000:066.779   Forking J-Link GUI Server: D:\Program Files\SEGGER\JLink\JLinkGUIServer.exe
+T7B64 000:120.116   J-Link GUI Server info: "J-Link GUI server V7.22b "
+T7B64 002:018.894   
+  ***** Error: 
+T7B64 002:018.973   Cannot connect to J-Link
+T7B64 002:043.212 - 2024.133ms returns "Cannot connect to J-Link"
+T7B64 002:914.918 JLINK_Close()
+T7B64 002:925.534 - 10.661ms
+T7B64 002:925.592   
+T7B64 002:925.616   Closed
